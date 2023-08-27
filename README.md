@@ -1,2 +1,3 @@
 # github-demo
-my  git repository
+my  git repository.
+author-Bhargab jyoti Bhuyan
